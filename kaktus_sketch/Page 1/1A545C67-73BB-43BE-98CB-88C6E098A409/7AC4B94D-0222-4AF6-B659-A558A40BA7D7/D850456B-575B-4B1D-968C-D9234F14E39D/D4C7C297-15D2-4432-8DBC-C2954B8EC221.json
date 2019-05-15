@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "FontAwesome",
+              "name": "Roboto-Regular",
               "size": 13
             }
           },
@@ -50,12 +50,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "A98D6051-C37D-481F-B820-610E46D73ED1",
-    "height": 13,
-    "width": 7,
+    "height": 14,
+    "width": 15,
     "x": 0,
-    "y": 2
+    "y": 1
   },
-  "glyphBounds": "{{0, 0}, {7, 12}}",
+  "glyphBounds": "{{1, 1}, {13, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -90,7 +90,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "FontAwesome",
+            "name": "LastResort",
             "size": 13
           }
         },

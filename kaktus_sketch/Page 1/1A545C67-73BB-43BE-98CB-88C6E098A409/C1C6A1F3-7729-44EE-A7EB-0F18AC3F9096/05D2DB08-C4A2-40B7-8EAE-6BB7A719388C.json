@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "ProximaNova-Semibold",
+              "name": "Roboto-Medium",
               "size": 14
             }
           },
@@ -53,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1F669879-BA63-4F89-B995-2D491370AC0C",
-    "height": 17,
-    "width": 45,
-    "x": 21,
-    "y": 5
+    "height": 16,
+    "width": 44,
+    "x": 20.5,
+    "y": 6
   },
-  "glyphBounds": "{{0, 3}, {44, 11}}",
+  "glyphBounds": "{{0, 3}, {43, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -93,7 +93,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "ProximaNova-Semibold",
+            "name": "Roboto-Medium",
             "size": 14
           }
         },

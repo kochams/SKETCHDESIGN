@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "7245EB37-5AE6-4707-ACBA-79B3E28FF838",
-    "height": 30,
-    "width": 55,
+    "height": 29,
+    "width": 54,
     "x": 259,
-    "y": 335
+    "y": 336
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",

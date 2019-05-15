@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "ProximaNova-Regular",
+              "name": "Roboto-Regular",
               "size": 11
             }
           },
@@ -53,8 +53,8 @@
     "constrainProportions": false,
     "do_objectID": "76B5530F-4485-4A63-BBF8-57B4CE61D76E",
     "height": 13,
-    "width": 22,
-    "x": 169.5,
+    "width": 23,
+    "x": 169,
     "y": 701
   },
   "glyphBounds": "{{0, 2}, {22, 9}}",
@@ -98,7 +98,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "ProximaNova-Regular",
+            "name": "Roboto-Regular",
             "size": 11
           }
         },

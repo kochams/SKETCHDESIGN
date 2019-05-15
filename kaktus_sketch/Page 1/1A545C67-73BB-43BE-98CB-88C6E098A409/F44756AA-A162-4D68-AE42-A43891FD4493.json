@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "ProximaNova-Light",
+              "name": "Roboto-Light",
               "size": 12
             }
           },
@@ -52,12 +52,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "00648AB6-2A10-46DC-B8C0-67FF0AABFE6D",
-    "height": 15,
-    "width": 262,
+    "height": 14,
+    "width": 269,
     "x": 46,
     "y": 303
   },
-  "glyphBounds": "{{0, 2}, {261, 12}}",
+  "glyphBounds": "{{1, 1}, {266, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -98,7 +98,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "ProximaNova-Light",
+            "name": "Roboto-Light",
             "size": 12
           }
         },
