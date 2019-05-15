@@ -1,0 +1,200 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3651A7A3-D7AA-4466-921D-B8FB24F69220",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FC679754-D0AD-4F94-8B0B-E09895BEC7B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FAB67C1C-D26C-4B32-8595-494AC1775A35",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7470C9F0-0405-4BDC-AF5F-FA2864C80955",
+    "height": 720,
+    "width": 360,
+    "x": 50,
+    "y": -360
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "ECF8826F-D3C4-41C0-816D-469E62864A4D"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5D62DFB5-5779-44B6-A4C3-4E93F8A64362",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B286CB6B-C665-44FE-9743-D010B6C54081"
+    },
+    {
+      "class": "rectangle",
+      "id": "B0DABF86-39F0-42F6-B068-A71FE8EB16BB"
+    },
+    {
+      "class": "oval",
+      "id": "9C196AC9-C60F-409B-9B3B-13BFC6D853AF"
+    },
+    {
+      "class": "text",
+      "id": "C1D73EEA-7242-4F19-8DEE-F21DC529DF85"
+    },
+    {
+      "class": "text",
+      "id": "C4041EC5-AC69-40B6-935C-48341D00F7A1"
+    },
+    {
+      "class": "text",
+      "id": "A7BC4621-C391-4077-AAA6-FC183ECD95B3"
+    },
+    {
+      "class": "rectangle",
+      "id": "5079AADF-1967-479F-9BDF-C580AC9DA74B"
+    },
+    {
+      "class": "oval",
+      "id": "7127A308-4980-4D12-8E96-1BC99850299F"
+    },
+    {
+      "class": "oval",
+      "id": "2CCD38D8-EB34-4306-90F4-C2A9B83E2636"
+    },
+    {
+      "class": "oval",
+      "id": "B958B848-0E36-44C9-9BC8-8C97CA2D9E9B"
+    },
+    {
+      "class": "oval",
+      "id": "77B86D39-3DEA-4CF5-93BB-24306C03CDB7"
+    },
+    {
+      "class": "oval",
+      "id": "D7827B98-862B-4A2B-89ED-6F9B83C0D2C9"
+    },
+    {
+      "class": "group",
+      "id": "348B89F4-D5F9-47F6-8F6F-BD9ADD83688C"
+    },
+    {
+      "class": "text",
+      "id": "6D8DD067-C2E7-4BDE-8CE0-35C979BED60E"
+    },
+    {
+      "class": "text",
+      "id": "900602D0-F499-4B34-AE43-8EACD690ED6A"
+    },
+    {
+      "class": "group",
+      "id": "E37C7A03-C71A-4B3F-B039-27637723FFDC"
+    },
+    {
+      "class": "group",
+      "id": "77F8A77C-F8F9-4422-9DC0-D0DE1EC5920C"
+    },
+    {
+      "class": "text",
+      "id": "CCCFDDDE-EE73-4D0D-A210-7FA5E32AC780"
+    },
+    {
+      "class": "group",
+      "id": "735D54FB-1DB9-4403-9ECC-42341C45C070"
+    },
+    {
+      "class": "oval",
+      "id": "14D5C30A-8B0C-4D23-922E-D01A5B703195"
+    },
+    {
+      "class": "bitmap",
+      "id": "0167AA95-68FF-4F20-B4E9-5697D8F5BEF0"
+    },
+    {
+      "class": "rectangle",
+      "id": "AEB680C0-6F9F-45DC-A2B1-A2B470D77891"
+    },
+    {
+      "class": "group",
+      "id": "AC668A1D-877A-4FB9-903E-FC2F50DAFCE0"
+    },
+    {
+      "class": "group",
+      "id": "55BBF10A-299D-459F-AD2C-6255632F1B99"
+    },
+    {
+      "class": "shapePath",
+      "id": "57ABE0D0-ADF8-4C14-8F7B-9A4809EF9887"
+    },
+    {
+      "class": "group",
+      "id": "F36B0520-6CC4-477E-87C5-4DA6BB108C47"
+    }
+  ],
+  "name": "Details",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 720,
+    "name": "Pixel 2 XL",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "40E5A7AE-A7C2-4899-9E31-640D197D6F42",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "427EC917-5D99-48F2-8436-F33973DD9783",
+    "guides": [
+    ]
+  }
+}
