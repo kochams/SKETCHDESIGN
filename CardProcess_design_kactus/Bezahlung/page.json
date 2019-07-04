@@ -1,0 +1,110 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "ae143e70-9e2d-11e9-96d8-dd3241d8dd2e",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -333,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "D84E6F80-B5B9-4C23-849F-594D062572D7"
+    },
+    {
+      "class": "artboard",
+      "id": "DB79C81E-21A0-4DC2-AADD-DFCBDB339B1D"
+    },
+    {
+      "class": "artboard",
+      "id": "3D3A133F-76FB-4CA5-A862-B1AFFA46B05D"
+    },
+    {
+      "class": "artboard",
+      "id": "0F453D92-802A-49C6-A275-44AD09720288"
+    },
+    {
+      "class": "artboard",
+      "id": "EF12B7FB-30F9-4275-8B5A-BB81D04A21D5"
+    },
+    {
+      "class": "artboard",
+      "id": "23A64E97-B7F7-4F03-9409-6F54BE11F883"
+    },
+    {
+      "class": "artboard",
+      "id": "ADCE71D7-829C-4D26-B002-E1BF3EE3DE77"
+    },
+    {
+      "class": "artboard",
+      "id": "7892993D-00D9-4EFB-BB5D-E073387C7FBD"
+    },
+    {
+      "class": "artboard",
+      "id": "BCD638D8-68DF-404C-BBDE-20BFE521E217"
+    },
+    {
+      "class": "artboard",
+      "id": "58C33E27-F244-4196-892A-589CD7C5EA20"
+    },
+    {
+      "class": "artboard",
+      "id": "AD1EBC0B-681E-4C16-9E2C-86195FE704DD"
+    },
+    {
+      "class": "artboard",
+      "id": "66D75418-3D15-4A8F-93AD-604D4610517E"
+    }
+  ],
+  "name": "Bezahlung",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -265,
+    "guides": [
+    ]
+  }
+}
