@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3F373914-2ABA-42E9-8C8F-B26D5C5E7C26",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5CBBD887-5C78-40FB-B729-435BDF1B5B89",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D58E3BCB-6D90-41CB-8FE7-ED565B75376D",
+    "height": 52,
+    "width": 280,
+    "x": 0,
+    "y": 145
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "A0E278DC-B48E-412C-82BB-32769D47C740"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A45FEADA-CEC1-4721-9AF6-1FF37710B4B1"
+    },
+    {
+      "class": "group",
+      "id": "E4AB1ECA-D55C-4EE7-87E4-4A2ADB237A8A"
+    }
+  ],
+  "name": "Buttons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1CC1C3D1-76D8-44DA-BF07-90712C878B97",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

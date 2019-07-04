@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EF58A6BA-3B1C-40FE-847A-B70CDAF8D301",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7BF0E053-D4CE-4C12-A31C-F744FE780EC6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "7522F4B5-04F0-4FC8-BF98-EAD2DD207629",
+    "height": 20,
+    "width": 20,
+    "x": 330,
+    "y": 108
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "C25AE6BF-9A8C-4F46-9CBD-8B6CC709BC97"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3603C7B2-ED41-4CCD-9462-EE09168B87E9"
+    }
+  ],
+  "name": "noun_Gear_2011982",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "49EAFDD3-FC18-4F28-82A5-8C3319A1690A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 19.85402,
+            "enabled": 1,
+            "modelID": "constraint_fcfe6dd7-97c5-400d-96af-209f8a6851c3",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 20
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_b0f3a8a5-58d1-49ac-828a-959a56652210",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

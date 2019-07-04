@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "922B6D07-A3AD-4A70-A1A9-0F6113CC0531",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5A7D27E1-69B4-404C-BEE3-4313CC26A989",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F23134EC-7D94-4F4C-A50A-4E0BF32FF4C1",
+    "height": 30,
+    "width": 22,
+    "x": 56,
+    "y": 481
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "513DD995-CF6F-4D91-A6B6-4CBA3E9BFB2E"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CDE6E009-EF01-4D94-830C-BBC1E519222D"
+    }
+  ],
+  "name": "noun_Calculator_1280122",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A6F229A9-2989-4024-A2B0-7AFD198C6446",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 30,
+            "enabled": 1,
+            "modelID": "constraint_33f11510-c0cd-4503-8620-041e4e1354c7",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 22
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_9469f44b-b406-4608-a9c4-d48c8e6cf01e",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

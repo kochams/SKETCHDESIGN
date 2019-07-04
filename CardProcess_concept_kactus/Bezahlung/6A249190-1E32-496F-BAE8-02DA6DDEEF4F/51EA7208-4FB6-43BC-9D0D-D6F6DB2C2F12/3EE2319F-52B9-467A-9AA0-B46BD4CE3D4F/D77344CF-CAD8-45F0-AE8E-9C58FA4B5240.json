@@ -1,0 +1,97 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D77344CF-CAD8-45F0-AE8E-9C58FA4B5240",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "12780F57-D79B-404F-96D0-092F6F69B219",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0EC21643-DD4A-4885-A026-7971CD9C8C63",
+    "height": 17,
+    "width": 15,
+    "x": 43,
+    "y": 15
+  },
+  "hasClippingMask": false,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "back",
+  "nameIsFixed": true,
+  "pointRadiusBehaviour": 0,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 2,
+      "curveFrom": "{0.99999997746672664, -0.044212864809782759}",
+      "curveMode": 1,
+      "curveTo": "{0.99999997746672664, -0.044212864809782759}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.99999997746672664, -0.044212864809782759}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 2,
+      "curveFrom": "{0.72049598702496187, 1.1868950936476208}",
+      "curveMode": 1,
+      "curveTo": "{1.2795040182693471, 0.90175412939323818}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1.0000000026471545, 1.0443246115204294}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 2,
+      "curveFrom": "{-0.067018176924187017, 0.50005585480534931}",
+      "curveMode": 1,
+      "curveTo": "{-0.067018176924187017, 0.50005585480534931}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{-0.067018176924187017, 0.50005585480534931}"
+    }
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 2
+      }
+    ],
+    "do_objectID": "D81B2B34-E9F2-4555-9BA0-2BBAC5B43A52",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

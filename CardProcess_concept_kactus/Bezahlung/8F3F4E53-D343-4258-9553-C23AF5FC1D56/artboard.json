@@ -1,0 +1,146 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6F8F1380-917C-4F44-8D9C-5DA93A084B6A",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8F3F4E53-D343-4258-9553-C23AF5FC1D56",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "27E5C873-461E-4A43-8CCD-D902C1266B92",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7ACB2F98-AE11-429D-9B8A-9D36AE97CEBF",
+    "height": 640,
+    "width": 360,
+    "x": -2110,
+    "y": 673
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "8AAF04F1-25B7-411B-90B9-6B3F6609925B"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1A504FB5-1B4D-4003-85F9-A0776D1CDC3A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "00C1D90D-A12D-4D82-AD14-6AB8F35ED40C"
+    },
+    {
+      "class": "text",
+      "id": "31ED813B-3849-4637-856F-744DAD86A906"
+    },
+    {
+      "class": "text",
+      "id": "2339E40A-9E03-4B38-8399-D3B82EB34EAC"
+    },
+    {
+      "class": "text",
+      "id": "AEFA11AA-48BF-4D7A-B7AB-C8720C227EB5"
+    },
+    {
+      "class": "group",
+      "id": "63F2EB5A-8E76-4611-A597-2DEDA560E561"
+    },
+    {
+      "class": "group",
+      "id": "AAFFE925-1871-4548-9ADC-591C3D8DBFBE"
+    },
+    {
+      "class": "group",
+      "id": "4CF6CE96-912B-438C-9D70-9263877D4CA8"
+    },
+    {
+      "class": "group",
+      "id": "44FDC790-A544-45B1-A93E-C6BE12338A94"
+    },
+    {
+      "class": "group",
+      "id": "6E1062B8-4FF4-4ACD-B080-0E120FA4624A"
+    },
+    {
+      "class": "rectangle",
+      "id": "297FCCB8-D52D-4D84-8E3B-BA3D174643B7"
+    },
+    {
+      "class": "group",
+      "id": "CAB00B0C-256C-46A9-8C07-345B410E2AE6"
+    }
+  ],
+  "name": "VIEW-310_Bezahlung_Karte anhalten",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EF381F08-EF57-424A-8A49-2CDA5FFE7222",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DEF41584-A0DE-4FCD-A7F7-EB0AE37DAA23",
+    "guides": [
+    ]
+  }
+}
